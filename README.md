@@ -40,3 +40,12 @@
 
 ---
 Good luck 🚀
+
+---
+## ❗ Submission Note
+
+**Date completed:** 17 September 2025  
+**Status:** ❌ Late submission (Deadline: 03 September 2025, Wednesday)  
+
+This project was submitted after the official deadline and will **not be reviewed**.  
+It is intended **exclusively for learning and demonstration purposes**.
